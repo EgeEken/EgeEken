@@ -59,7 +59,7 @@ An AI program that can be trained to read numbers on a 16x16 black and white ima
 <details><summary>Results: (click here to open)</summary>
 <p>
     
-<img src="https://user-images.githubusercontent.com/96302110/213899417-5ee56354-d802-43ed-9941-cb3d1024b2bc.gif" alt="ai results" width="50%" />
+<img src="https://user-images.githubusercontent.com/96302110/213899417-5ee56354-d802-43ed-9941-cb3d1024b2bc.gif" alt="ai results" width="70%" />
 
 </p>
 </details>
@@ -72,9 +72,9 @@ An AI program that can be trained to take sketches as inputs and generate photog
 <details><summary>Results: (click here to open)</summary>
 <p>
 
-<img src="https://github.com/EgeEken/AI/assets/96302110/281fbeb0-48d2-4f4d-953b-1e3b963bb300" alt="Input" width="50%" />
-<img src="https://github.com/EgeEken/AI/assets/96302110/e6e88130-f85a-409b-abc5-890e7dbd1a9a" alt="Expected Output" width="50%" />
-<img src="https://github.com/EgeEken/AI/assets/96302110/a41c946a-a9d7-4583-ba30-a7b4c7b54a4e" alt="Output" width="50%" />
+<img src="https://github.com/EgeEken/AI/assets/96302110/281fbeb0-48d2-4f4d-953b-1e3b963bb300" alt="Input" width="40%" />
+<img src="https://github.com/EgeEken/AI/assets/96302110/e6e88130-f85a-409b-abc5-890e7dbd1a9a" alt="Expected Output" width="40%" />
+<img src="https://github.com/EgeEken/AI/assets/96302110/a41c946a-a9d7-4583-ba30-a7b4c7b54a4e" alt="Output" width="40%" />
 
 </p>
 </details>
