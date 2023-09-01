@@ -4,16 +4,20 @@ Welcome to my GitHub page, this is where I upload most of the personal projects 
 
 ## Links
 <a target="_blank" href="https://www.linkedin.com/in/tarikegeeken/">
-    <img src="https://github.com/EgeEken/EgeEken/assets/96302110/ae95827b-4fa6-4df7-a133-eef5560dfa52" alt="LinkedIn" width="20px" height="20px"/>
+    <img src="https://i.imgur.com/9mUrCCb.png" alt="LinkedIn" width="60px"/>
 </a>
 
-<a target="_blank" href="egeeken.github.io">
-    <img width="20px" height="20px" alt="CV" src="https://github.com/EgeEken/EgeEken/assets/96302110/ca7332cf-a42f-40e7-bd9c-4da7c80647a7">
+
+<a target="_blank" href="https://egeeken.github.io">
+    <img src="https://i.imgur.com/qeVQXug.png" alt="CV" width="60px"/>
 </a>
+
 
 <a target="_blank" href="https://www.instagram.com/egeinparis">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="Instagram" width="20px" height="20px"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="Instagram" width="60px"/>
 </a>
+
+
 
 ## Notable Projects
 
