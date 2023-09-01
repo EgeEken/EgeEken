@@ -1,6 +1,6 @@
 # Ege Eken
 
-Welcome to my GitHub page, this is where I upload most of the personal projects I've been working on.
+Welcome to my GitHub page, this is where I upload most of the personal projects I've been working on, as well as some links for social media and my CV.
 
 ## Links
 <a target="_blank" href="https://www.linkedin.com/in/tarikegeeken/">
