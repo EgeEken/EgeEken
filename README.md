@@ -95,3 +95,7 @@ This algorithm has its use cases over a simple BnW - threshold system because by
 
 </p>
 </details>
+
+<br/><br/>
+
+All my other projects, in their respective categories, are listed below:
