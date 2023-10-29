@@ -17,6 +17,35 @@ Welcome to my GitHub page, this is where I upload most of the personal projects 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="Instagram" width="60px"/>
 </a>
 
+## Human Languages
+<p>
+    <img align="left" alt="Turkish" width="50px" style="padding-right:10px;" src="https://flagicons.lipis.dev/flags/4x3/tr.svg"/>
+    Turkish (Native)
+</p>
+<p>
+    <img align="left" alt="English" width="50px" style="padding-right:10px;" src="https://flagicons.lipis.dev/flags/4x3/gb.svg"/>
+    English (Fluent, IELTS 8/9)
+</p>
+<p>
+    <img align="left" alt="French" width="50px" style="padding-right:10px;" src="https://flagicons.lipis.dev/flags/4x3/fr.svg"/>
+    French (Fluent, DALF C1)
+</p>
+
+## Computer Languages
+
+<img align="left" alt="Python" width="40px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img align="left" alt="Java" width="40px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="HTML" width="40px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="40px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="PHP" width="40px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+<img align="left" alt="JavaScript" width="40px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="C" width="40px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<img align="left" alt="OCaml" width="40px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ocaml/ocaml-original.svg" />
+<img align="left" alt="SQL" width="40px" style="padding-right:20px;" src="https://db.cs.uni-tuebingen.de/teaching/ws2223/sql-is-a-programming-language/logo.svg" />
+
+<br /> 
+
+#
 
 
 ## Notable Projects
