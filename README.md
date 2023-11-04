@@ -108,6 +108,17 @@ An AI program that can be trained to take sketches as inputs and generate photog
 </p>
 </details>
 
+### [Movement Tracker](https://github.com/EgeEken/Movement-Tracker)
+Tracks the movement in a given video, placing a red dot on the most active object.
+
+<details><summary>Results: (click here to open)</summary>
+<p>
+    
+<video loop autoplay muted playsinline src="https://github.com/EgeEken/Movement-Tracker/assets/96302110/7a32bc2e-4452-4102-be41-7c256087b06e"> 
+
+</p>
+</details>
+
 ### [Simplify Color](https://github.com/EgeEken/Simplify-Color)
 
 Simplifies a given image's colors by reducing the amount of unique colors of pixels in it.
