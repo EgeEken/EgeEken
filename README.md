@@ -52,7 +52,11 @@ Welcome to my GitHub page, this is where I upload most of the personal projects 
 
 ### [Detect Object](https://github.com/EgeEken/Detect-Object)
 
-Detects the object in an image and crops out the rest
+<a target="_blank" href="https://github.com/EgeEken/Detect-Object">
+    <img src="https://user-images.githubusercontent.com/96302110/181905526-0166421b-6546-46a9-8b2c-012c4e0b3e8f.png" alt="Detect Object" width="300px"/>
+</a> 
+
+Detects the object in an image and crops out the rest (click on the image for the repository)
 
 <details><summary>Results: (click here to open)</summary>
 <p>
