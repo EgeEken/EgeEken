@@ -1,0 +1,15 @@
+<svg fill="none" viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+              .project-image {
+                transition: transform 0.2s;
+              }
+              .project-image:hover {
+                transform: scale(1.2);
+              }
+            </style>
+            <img class="project-image" src="https://user-images.githubusercontent.com/96302110/181905526-0166421b-6546-46a9-8b2c-012c4e0b3e8f.png" alt="Project Image" width="50%" />
+        </div>
+    </foreignObject>
+</svg>
