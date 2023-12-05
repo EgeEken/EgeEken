@@ -48,6 +48,8 @@ Welcome to my GitHub page, this is where I upload most of the personal projects 
 #
 
 
+<img src="test.svg" width="800" height="400" alt="CSS test">
+
 ## Notable Projects
 
 ### [Detect Object](https://github.com/EgeEken/Detect-Object)
