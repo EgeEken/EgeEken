@@ -107,6 +107,20 @@ An AI program that can be trained to take sketches as inputs and generate photog
 </p>
 </details>
 
+
+### [AI Robot Simulation](https://github.com/EgeEken/AI-PaintWars)
+An AI based solution for a simulated robotics project in my "AI and Games" class
+
+<details><summary>Results: (click here to open)</summary>
+<p>
+
+<img src="https://github.com/EgeEken/AI-PaintWars/assets/96302110/fbdaa911-a761-4094-9db6-3dae9070c714" alt="arena0" width="50%" />
+<img src="https://github.com/EgeEken/AI-PaintWars/assets/96302110/aed07beb-1284-4b6f-b516-52265517f860" alt="arena4" width="50%" />
+<img src="https://github.com/EgeEken/AI-PaintWars/assets/96302110/598b38da-9b22-449b-b8ce-dec0c4b35366" alt="arena5" width="50%" />
+
+</p>
+</details>
+
 ### [Movement Tracker](https://github.com/EgeEken/Movement-Tracker)
 Tracks the movement in a given video, placing a red dot on the most active object.
 
