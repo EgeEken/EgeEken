@@ -101,9 +101,7 @@ An AI program that can be trained to take sketches as inputs and generate photog
 <details><summary>Results: (click here to open)</summary>
 <p>
 
-<img src="https://github.com/EgeEken/AI/assets/96302110/281fbeb0-48d2-4f4d-953b-1e3b963bb300" alt="Input" width="40%" />
-<img src="https://github.com/EgeEken/AI/assets/96302110/e6e88130-f85a-409b-abc5-890e7dbd1a9a" alt="Expected Output" width="40%" />
-<img src="https://github.com/EgeEken/AI/assets/96302110/a41c946a-a9d7-4583-ba30-a7b4c7b54a4e" alt="Output" width="40%" />
+<img src="https://github.com/EgeEken/EgeEken/assets/96302110/65a55f87-d367-4816-ab11-e24160e0c0ea" alt="Demonstration" width="40%" />
 
 </p>
 </details>
