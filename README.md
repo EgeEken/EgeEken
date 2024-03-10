@@ -50,6 +50,17 @@ Welcome to my GitHub page, this is where I upload most of the personal projects 
 
 ## Notable Projects
 
+### [AI Image Upscaler](https://github.com/EgeEken/Image-Upscaler)
+
+A web interface built with Flask, HTML, JavaScript and CSS that uses Hugging Face transformer models to upscale the given images.
+
+<details><summary>Results: (click here to open)</summary>
+<p>
+<img src="https://github.com/EgeEken/Image-Upscaler/assets/96302110/13e3f3d7-2bfe-45b6-beaa-47eb3d3012cc" alt="ai results" width="70%" />
+
+</p>
+</details>
+
 ### [Detect Object](https://github.com/EgeEken/Detect-Object)
 
 Detects the object in an image and crops out the rest (click on the image for the repository)
