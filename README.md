@@ -63,7 +63,7 @@ A web interface built with Flask, HTML, JavaScript and CSS that uses Hugging Fac
 
 ### [Detect Object](https://github.com/EgeEken/Detect-Object)
 
-Detects the object in an image and crops out the rest (click on the image for the repository)
+Detects the object in an image and crops out the rest (click on the image for the repository). Purely algorithmic approach built from scratch, using my own design, does not use AI or OpenCV.
 
 <details><summary>Results: (click here to open)</summary>
 <p>
@@ -103,6 +103,18 @@ An AI program that can be trained to read numbers on a 16x16 black and white ima
 
 </p>
 </details>
+
+### [AI Chatbot](https://github.com/EgeEken/EmilioBot)
+An AI Chatbot using a Large Language Model. Built using PyTorch from scratch, not a finetune of GPT or LLAMA or any other pretrained model. 
+
+<details><summary>Results: (click here to open)</summary>
+<p>
+
+<img src="https://github.com/EgeEken/EmilioBot/assets/96302110/8d7556e4-c14d-427d-98ab-5b7dab1d398b" alt="Demonstration" width="40%" />
+
+</p>
+</details>
+
 
 ### [AI Image Generator](https://github.com/EgeEken/Image-Generator)
 An AI program that can be trained to take sketches as inputs and generate photographs of them.
