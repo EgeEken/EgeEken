@@ -56,7 +56,9 @@ An AI Chatbot using a Large Language Model. Built using PyTorch from scratch, no
 <details><summary>Results: (click here to open)</summary>
 <p>
 
-<img src="" alt="Demonstration" width="40%" />
+<img src="https://github.com/EgeEken/EgeEken/assets/96302110/f305215c-9aef-4f4a-ad79-87670350d273" alt="Demonstration" width="40%" />
+
+<img src="https://github.com/EgeEken/EgeEken/assets/96302110/51d382e2-4f24-4c51-8d94-508cf3f81aee" alt="Demonstration" width="40%" />
 
 </p>
 </details>
