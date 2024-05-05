@@ -50,6 +50,17 @@ Welcome to my GitHub page, this is where I upload most of the personal projects 
 
 ## Notable Projects
 
+### [AI Chatbot](https://github.com/EgeEken/AI-Chatbot)
+An AI Chatbot using a Large Language Model. Built using PyTorch from scratch, not a finetune of GPT or any other pretrained model. 
+
+<details><summary>Results: (click here to open)</summary>
+<p>
+
+<img src="" alt="Demonstration" width="40%" />
+
+</p>
+</details>
+
 ### [AI Image Upscaler](https://github.com/EgeEken/Image-Upscaler)
 
 A web interface built with Flask, HTML, JavaScript and CSS that uses Hugging Face transformer models to upscale the given images.
@@ -104,16 +115,6 @@ An AI program that can be trained to read numbers on a 16x16 black and white ima
 </p>
 </details>
 
-### [AI Chatbot](https://github.com/EgeEken/EmilioBot)
-An AI Chatbot using a Large Language Model. Built using PyTorch from scratch, not a finetune of GPT or LLAMA or any other pretrained model. 
-
-<details><summary>Results: (click here to open)</summary>
-<p>
-
-<img src="https://github.com/EgeEken/EmilioBot/assets/96302110/8d7556e4-c14d-427d-98ab-5b7dab1d398b" alt="Demonstration" width="40%" />
-
-</p>
-</details>
 
 
 ### [AI Image Generator](https://github.com/EgeEken/Image-Generator)
