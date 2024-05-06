@@ -51,14 +51,14 @@ Welcome to my GitHub page, this is where I upload most of the personal projects 
 ## Notable Projects
 
 ### [AI Chatbot](https://github.com/EgeEken/AI-Chatbot)
-An AI Chatbot using a Large Language Model. Built using PyTorch from scratch, not a finetune of GPT or any other pretrained model. 
+A local LLM Chatbot. Built using PyTorch from scratch, not a finetune of GPT or any other pretrained model, as such, it is compatible with any languages.
 
 <details><summary>Results: (click here to open)</summary>
 <p>
 
 <img src="https://github.com/EgeEken/EgeEken/assets/96302110/f305215c-9aef-4f4a-ad79-87670350d273" alt="Demonstration" width="40%" />
-
-<img src="https://github.com/EgeEken/EgeEken/assets/96302110/51d382e2-4f24-4c51-8d94-508cf3f81aee" alt="Demonstration" width="40%" />
+<p></p>
+<img src="https://github.com/EgeEken/EgeEken/assets/96302110/51d382e2-4f24-4c51-8d94-508cf3f81aee" alt="Demonstration" width="60%" />
 
 </p>
 </details>
@@ -92,6 +92,32 @@ Detects the object in an image and crops out the rest (click on the image for th
 </p>
 </details>
 
+### [AI Number Reader](https://github.com/EgeEken/Number-Reader)
+An AI program that can be trained to read numbers on a 16x16 black and white image.
+
+<details><summary>Results: (click here to open)</summary>
+<p>
+    
+<img src="https://user-images.githubusercontent.com/96302110/213899417-5ee56354-d802-43ed-9941-cb3d1024b2bc.gif" alt="ai results" width="70%" />
+
+</p>
+</details>
+
+
+### [AI Robot Simulation](https://github.com/EgeEken/AI-PaintWars)
+An AI based solution for a simulated robotics project in my "AI and Games" class. Uses a reinforcement learning evolutionary algorithm.
+
+<details><summary>Results: (click here to open)</summary>
+<p>
+
+<img src="https://github.com/EgeEken/AI-PaintWars/assets/96302110/fbdaa911-a761-4094-9db6-3dae9070c714" alt="arena0" width="50%" />
+<img src="https://github.com/EgeEken/AI-PaintWars/assets/96302110/aed07beb-1284-4b6f-b516-52265517f860" alt="arena4" width="50%" />
+<img src="https://github.com/EgeEken/AI-PaintWars/assets/96302110/598b38da-9b22-449b-b8ce-dec0c4b35366" alt="arena5" width="50%" />
+
+</p>
+</details>
+
+
 ### [Submerge](https://github.com/EgeEken/Submerge)
 
 Simulates and visualizes an area of land being submerged based on the given topographical data and satellite image
@@ -106,19 +132,6 @@ https://user-images.githubusercontent.com/96302110/165179431-fbcc2169-23e5-49f7-
 </p>
 </details>
 
-### [AI Number Reader](https://github.com/EgeEken/Number-Reader)
-An AI program that can be trained to read numbers on a 16x16 black and white image.
-
-<details><summary>Results: (click here to open)</summary>
-<p>
-    
-<img src="https://user-images.githubusercontent.com/96302110/213899417-5ee56354-d802-43ed-9941-cb3d1024b2bc.gif" alt="ai results" width="70%" />
-
-</p>
-</details>
-
-
-
 ### [AI Image Generator](https://github.com/EgeEken/Image-Generator)
 An AI program that can be trained to take sketches as inputs and generate photographs of them.
 
@@ -128,20 +141,6 @@ An AI program that can be trained to take sketches as inputs and generate photog
 <p>
 
 <img src="https://github.com/EgeEken/EgeEken/assets/96302110/65a55f87-d367-4816-ab11-e24160e0c0ea" alt="Demonstration" width="40%" />
-
-</p>
-</details>
-
-
-### [AI Robot Simulation](https://github.com/EgeEken/AI-PaintWars)
-An AI based solution for a simulated robotics project in my "AI and Games" class
-
-<details><summary>Results: (click here to open)</summary>
-<p>
-
-<img src="https://github.com/EgeEken/AI-PaintWars/assets/96302110/fbdaa911-a761-4094-9db6-3dae9070c714" alt="arena0" width="50%" />
-<img src="https://github.com/EgeEken/AI-PaintWars/assets/96302110/aed07beb-1284-4b6f-b516-52265517f860" alt="arena4" width="50%" />
-<img src="https://github.com/EgeEken/AI-PaintWars/assets/96302110/598b38da-9b22-449b-b8ce-dec0c4b35366" alt="arena5" width="50%" />
 
 </p>
 </details>
