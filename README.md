@@ -117,6 +117,18 @@ An AI based solution for a simulated robotics project in my "AI and Games" class
 </p>
 </details>
 
+### [QuadTree Image Compression](https://github.com/EgeEken/QuadTree)
+
+A web interface built with Flask, HTML, JavaScript and CSS that uses the QuadTree algorithm to compress the given images.
+
+<details><summary>Results: (click here to open)</summary>
+<p>
+
+<video loop autoplay muted playsinline src="https://github.com/EgeEken/QuadTree/assets/96302110/41600c5d-175f-452f-8045-38e243138c26"> 
+
+</p>
+</details>
+
 
 ### [Submerge](https://github.com/EgeEken/Submerge)
 
@@ -176,6 +188,7 @@ Simplifies a given image's colors by reducing the amount of unique colors of pix
 
 </p>
 </details>
+
 
 ### [Simplify](https://github.com/EgeEken/Simplify) and [Simplify Video](https://github.com/EgeEken/Simplify-Video)
 
