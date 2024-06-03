@@ -63,19 +63,6 @@ A local LLM Chatbot. Built using PyTorch from scratch, not a finetune of GPT or 
 </p>
 </details>
 
-### [PBC Image Compression](https://github.com/EgeEken/PBC)
-Probabilistic Brush Compression. An unconventional lossy image compression algorithm of my design. Work in progress.
-
-<details><summary>Results: (click here to open)</summary>
-<p>
-
-<img src="https://github.com/EgeEken/PBC/assets/96302110/a371acc6-fae7-48c7-a669-794ab3f76dc7" alt="Demonstration" width="40%" />
-<p></p>
-<img src="https://github.com/EgeEken/PBC/assets/96302110/d4378cac-5da1-4605-920d-87e9ea9adf40" alt="Demonstration" width="40%" />
-
-</p>
-</details>
-
 ### [AI Image Upscaler](https://github.com/EgeEken/Image-Upscaler)
 
 A web interface built with Flask, HTML, JavaScript and CSS that uses Hugging Face transformer models to upscale the given images.
@@ -126,6 +113,19 @@ An AI based solution for a simulated robotics project in my "AI and Games" class
 <img src="https://github.com/EgeEken/AI-PaintWars/assets/96302110/fbdaa911-a761-4094-9db6-3dae9070c714" alt="arena0" width="50%" />
 <img src="https://github.com/EgeEken/AI-PaintWars/assets/96302110/aed07beb-1284-4b6f-b516-52265517f860" alt="arena4" width="50%" />
 <img src="https://github.com/EgeEken/AI-PaintWars/assets/96302110/598b38da-9b22-449b-b8ce-dec0c4b35366" alt="arena5" width="50%" />
+
+</p>
+</details>
+
+### [PBC Image Compression](https://github.com/EgeEken/PBC)
+Probabilistic Brush Compression. An unconventional lossy image compression algorithm of my design. WORK IN PROGRESS.
+
+<details><summary>Results: (click here to open)</summary>
+<p>
+
+<img src="https://github.com/EgeEken/PBC/assets/96302110/a371acc6-fae7-48c7-a669-794ab3f76dc7" alt="Demonstration" width="40%" />
+<p></p>
+<img src="https://github.com/EgeEken/PBC/assets/96302110/d4378cac-5da1-4605-920d-87e9ea9adf40" alt="Demonstration" width="40%" />
 
 </p>
 </details>
