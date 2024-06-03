@@ -63,6 +63,19 @@ A local LLM Chatbot. Built using PyTorch from scratch, not a finetune of GPT or 
 </p>
 </details>
 
+### [PBC Image Compression](https://github.com/EgeEken/PBC)
+Probabilistic Brush Compression. An unconventional lossy image compression algorithm of my design. Work in progress.
+
+<details><summary>Results: (click here to open)</summary>
+<p>
+
+<img src="https://github.com/EgeEken/PBC/assets/96302110/89d18020-ddb4-4add-9312-8d755bf3ec69" alt="Demonstration" width="40%" />
+<p></p>
+<img src="https://github.com/EgeEken/PBC/assets/96302110/6f1b87ac-6bf3-4e7c-b4cf-17a01bf3ae0a" alt="Demonstration" width="40%" />
+
+</p>
+</details>
+
 ### [AI Image Upscaler](https://github.com/EgeEken/Image-Upscaler)
 
 A web interface built with Flask, HTML, JavaScript and CSS that uses Hugging Face transformer models to upscale the given images.
