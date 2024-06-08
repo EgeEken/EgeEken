@@ -69,9 +69,9 @@ Probabilistic Brush Compression. An unconventional lossy image compression algor
 <details><summary>Results: (click here to open)</summary>
 <p>
 
-<img src="https://github.com/EgeEken/PBC/assets/96302110/a371acc6-fae7-48c7-a669-794ab3f76dc7" alt="Demonstration" width="40%" />
+<img src="https://github.com/EgeEken/PBC/assets/96302110/60513a43-f5ab-43e2-93c3-2011c1b61349" alt="Demonstration" width="40%" />
 <p></p>
-<img src="https://github.com/EgeEken/PBC/assets/96302110/d4378cac-5da1-4605-920d-87e9ea9adf40" alt="Demonstration" width="40%" />
+<img src="https://github.com/EgeEken/PBC/assets/96302110/f582782f-4ae4-4790-95da-9f4c81dac18e" alt="Demonstration" width="40%" />
 
 </p>
 </details>
