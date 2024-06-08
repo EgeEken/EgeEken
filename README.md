@@ -63,6 +63,19 @@ A local LLM Chatbot. Built using PyTorch from scratch, not a finetune of GPT or 
 </p>
 </details>
 
+### [PBC Image Compression](https://github.com/EgeEken/PBC)
+Probabilistic Brush Compression. An unconventional lossy image compression algorithm of my design. WORK IN PROGRESS.
+
+<details><summary>Results: (click here to open)</summary>
+<p>
+
+<img src="https://github.com/EgeEken/PBC/assets/96302110/a371acc6-fae7-48c7-a669-794ab3f76dc7" alt="Demonstration" width="40%" />
+<p></p>
+<img src="https://github.com/EgeEken/PBC/assets/96302110/d4378cac-5da1-4605-920d-87e9ea9adf40" alt="Demonstration" width="40%" />
+
+</p>
+</details>
+
 ### [AI Image Upscaler](https://github.com/EgeEken/Image-Upscaler)
 
 A web interface built with Flask, HTML, JavaScript and CSS that uses Hugging Face transformer models to upscale the given images.
@@ -117,18 +130,6 @@ An AI based solution for a simulated robotics project in my "AI and Games" class
 </p>
 </details>
 
-### [PBC Image Compression](https://github.com/EgeEken/PBC)
-Probabilistic Brush Compression. An unconventional lossy image compression algorithm of my design. WORK IN PROGRESS.
-
-<details><summary>Results: (click here to open)</summary>
-<p>
-
-<img src="https://github.com/EgeEken/PBC/assets/96302110/a371acc6-fae7-48c7-a669-794ab3f76dc7" alt="Demonstration" width="40%" />
-<p></p>
-<img src="https://github.com/EgeEken/PBC/assets/96302110/d4378cac-5da1-4605-920d-87e9ea9adf40" alt="Demonstration" width="40%" />
-
-</p>
-</details>
 
 ### [QuadTree Image Compression](https://github.com/EgeEken/QuadTree)
 
