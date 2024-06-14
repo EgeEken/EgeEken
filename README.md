@@ -64,7 +64,8 @@ A local LLM Chatbot. Built using PyTorch from scratch, not a finetune of GPT or 
 </details>
 
 ### [PBC Image Compression](https://github.com/EgeEken/PBC)
-Probabilistic Brush Compression. An unconventional lossy image compression algorithm of my design. WORK IN PROGRESS.
+Probabilistic Brush Compression. An unconventional lossy image compression algorithm of my design. 
+WORK IN PROGRESS. Current version (V2.1) publicly available on its [Hugging Face Space](https://huggingface.co/spaces/EgeEken/PBC_V2.1)
 
 <details><summary>Results: (click here to open)</summary>
 <p>
