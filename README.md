@@ -51,7 +51,7 @@ Welcome to my GitHub page, this is where I upload most of the personal projects 
 ## Notable Projects
 
 ### [AI Chatbot](https://github.com/EgeEken/AI-Chatbot)
-A local LLM Chatbot. Built using PyTorch from scratch, not a finetune of GPT or any other pretrained model, as such, it is compatible with any language.
+A local LLM Chatbot based on GPT2 architecture. Built using PyTorch from scratch, everything was done locally on my laptop. 
 
 <details><summary>Results: (click here to open)</summary>
 <p>
