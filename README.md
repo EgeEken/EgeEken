@@ -56,15 +56,16 @@ A local LLM Chatbot based on GPT2 architecture. Built using PyTorch from scratch
 <details><summary>Results: (click here to open)</summary>
 <p>
 
-<img src="https://github.com/EgeEken/EgeEken/assets/96302110/f305215c-9aef-4f4a-ad79-87670350d273" alt="Demonstration" width="40%" />
+<video src="https://github.com/user-attachments/assets/12ab0360-4303-4ca5-9d22-0438fb3f6298" alt="Demonstration" width="40%" />
 <p></p>
+<img src="https://github.com/EgeEken/AI-Chatbot/assets/96302110/4f6a94ba-661b-4fba-9594-0d0947127fce" alt="Demonstration" width="60%" />
 <img src="https://github.com/EgeEken/EgeEken/assets/96302110/51d382e2-4f24-4c51-8d94-508cf3f81aee" alt="Demonstration" width="60%" />
 
 </p>
 </details>
 
 ### [PBC Image Compression](https://github.com/EgeEken/PBC)
-Probabilistic Brush Compression. An unconventional lossy image compression algorithm of my design. 
+Probabilistic Brush Compression. An unconventional lossy image compression algorithm I designed that relies on a probabilistic algorithm. 
 WORK IN PROGRESS. Latest version (V2.1) publicly available on [Hugging Face Spaces/PBC_V2.1](https://huggingface.co/spaces/EgeEken/PBC_V2.1)
 
 <details><summary>Results: (click here to open)</summary>
@@ -74,6 +75,17 @@ WORK IN PROGRESS. Latest version (V2.1) publicly available on [Hugging Face Spac
 <img src="https://github.com/EgeEken/PBC/assets/96302110/0ce1bb10-62c7-4f18-a00f-4c69216587ab" alt="Demonstration" width="40%" />
 <p></p>
 <img src="https://github.com/EgeEken/EgeEken/assets/96302110/da61d3e8-434b-4679-925d-987f19d41771" alt="Demonstration" width="80%" />
+
+</p>
+</details>
+
+### [Multimodal Chatbot Voice Interface](https://github.com/EgeEken/Multimodal-Chatbot-Voice-Interface)
+
+A Gradio interface for local vision language models like LLAMA3-VISION that allows you to talk to the models using your voice.
+
+<details><summary>Results: (click here to open)</summary>
+<p>
+<video src="https://github.com/user-attachments/assets/f0f9df08-c94c-4001-852b-40b1f34ac04f" alt="ai results" width="70%" />
 
 </p>
 </details>
