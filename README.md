@@ -85,7 +85,7 @@ A Gradio interface for local vision language models like LLAMA3-VISION that allo
 
 <details><summary>Results: (click here to open)</summary>
 <p>
-<video loop autoplay muted playsinline src="https://github.com/user-attachments/assets/f0f9df08-c94c-4001-852b-40b1f34ac04f" alt="ai results" width="70%" />
+<video loop autoplay muted playsinline src="https://github.com/user-attachments/assets/f0f9df08-c94c-4001-852b-40b1f34ac04f" alt="ai results" width="70%"> </video>
 
 </p>
 </details>
