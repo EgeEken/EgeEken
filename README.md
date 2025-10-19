@@ -1,4 +1,6 @@
-# Ege Eken
+# Tarık Ege Eken
+## Portfolio: <a href="https://egeeken.github.io"> egeeken.github.io </a>
+
 
 Welcome to my GitHub page, this is where I upload most of the personal projects I've been working on, as well as some links for social media and my CV.
 
