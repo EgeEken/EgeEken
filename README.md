@@ -19,7 +19,7 @@ Welcome to my GitHub page, this is where I upload most of the personal projects 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="Instagram" width="60px"/>
 </a>
 
-## Human Languages (All fluent)
+## Human Languages
 <p>
     <img align="left" alt="Turkish" width="50px" style="padding-right:10px;" src="https://flagicons.lipis.dev/flags/4x3/tr.svg"/>
     <img align="left" alt="English" width="50px" style="padding-right:10px;" src="https://flagicons.lipis.dev/flags/4x3/gb.svg"/>
