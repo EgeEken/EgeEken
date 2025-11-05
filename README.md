@@ -100,6 +100,17 @@ A Gradio interface for local vision language models like LLAMA3-VISION that allo
 </p>
 </details>
 
+### [Lunar Lander AI](https://github.com/EgeEken/Lunar-Lander-AI)
+
+Training a model to perform well at OpenAI's lunar lander game environment. Used various reinforcement learning algorithms like EA, DQN, DDPG, TD3.
+
+<details><summary>Results: (click here to open)</summary>
+<p>
+<video loop autoplay muted playsinline src="https://github.com/user-attachments/assets/2df938e5-d4d3-4966-b0e0-e69842cfb72a" alt="ai results" width="70%"> </video>
+
+</p>
+</details>
+
 ### [AI Image Upscaler](https://github.com/EgeEken/Image-Upscaler)
 
 A web interface built with Flask, HTML, JavaScript and CSS that uses Hugging Face transformer models to upscale the given images.
