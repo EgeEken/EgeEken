@@ -19,19 +19,14 @@ Welcome to my GitHub page, this is where I upload most of the personal projects 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="Instagram" width="60px"/>
 </a>
 
-## Human Languages
+## Human Languages (All fluent)
 <p>
     <img align="left" alt="Turkish" width="50px" style="padding-right:10px;" src="https://flagicons.lipis.dev/flags/4x3/tr.svg"/>
-    Turkish (Native)
-</p>
-<p>
     <img align="left" alt="English" width="50px" style="padding-right:10px;" src="https://flagicons.lipis.dev/flags/4x3/gb.svg"/>
-    English (Fluent, IELTS 8/9)
-</p>
-<p>
     <img align="left" alt="French" width="50px" style="padding-right:10px;" src="https://flagicons.lipis.dev/flags/4x3/fr.svg"/>
-    French (Fluent, DALF C1)
 </p>
+<br />
+
 
 ## Computer Languages
 
@@ -42,7 +37,8 @@ Welcome to my GitHub page, this is where I upload most of the personal projects 
 <img align="left" alt="PHP" width="40px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
 <img align="left" alt="JavaScript" width="40px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="C" width="40px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-<img align="left" alt="Bash" width="40px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
+<img align="left" alt="C#" width="40px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+<img align="left" alt="Bash" width="40px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg"/>
 <img align="left" alt="OCaml" width="40px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ocaml/ocaml-original.svg" />
 <img align="left" alt="SQL" width="40px" style="padding-right:20px;" src="https://db.cs.uni-tuebingen.de/teaching/ws2223/sql-is-a-programming-language/logo.svg" />
 
@@ -53,7 +49,7 @@ Welcome to my GitHub page, this is where I upload most of the personal projects 
 ## Notable Projects
 
 ### [AI Chatbot](https://github.com/EgeEken/AI-Chatbot)
-A local LLM Chatbot based on GPT2 architecture. Built using PyTorch from scratch, everything was done locally on my laptop. 
+A local LLM Chatbot based on GPT2 architecture, optimized with modern discoveries like weight decay, mixed precision, better hyperparameter tuning etc. Built using PyTorch from scratch, everything was done locally on my laptop. 
 
 <details><summary>Results: (click here to open)</summary>
 <p>
@@ -62,6 +58,18 @@ A local LLM Chatbot based on GPT2 architecture. Built using PyTorch from scratch
 <p></p>
 <img src="https://github.com/EgeEken/AI-Chatbot/assets/96302110/4f6a94ba-661b-4fba-9594-0d0947127fce" alt="Demonstration" width="60%" />
 <img src="https://github.com/EgeEken/EgeEken/assets/96302110/51d382e2-4f24-4c51-8d94-508cf3f81aee" alt="Demonstration" width="60%" />
+
+</p>
+</details>
+
+
+### [AI Image Generator](https://github.com/EgeEken/Image-Generator)
+A locally trained GAN based on UNet architecture that takes sketches of birds as inputs and generates photographs of them. Built using PyTorch from scratch, everything was done locally on my laptop. Used a full MLOps stack here: Kaggle, Pytorch, Docker, MLFlow, Gradio, HF Spaces 
+
+<details><summary>Results: (click here to open)</summary>
+<p>
+
+<video loop autoplay muted playsinline src="https://github.com/user-attachments/assets/44773dd6-58b5-42d1-b725-3ad87ec9dea5"> 
 
 </p>
 </details>
@@ -170,19 +178,6 @@ Simulates and visualizes an area of land being submerged based on the given topo
 https://user-images.githubusercontent.com/96302110/165179413-d00621f2-f9c8-45e8-a18f-3119ed977873.mp4
 
 https://user-images.githubusercontent.com/96302110/165179431-fbcc2169-23e5-49f7-b248-52f653ddb8e2.mp4
-
-</p>
-</details>
-
-### [AI Image Generator](https://github.com/EgeEken/Image-Generator)
-An AI program that can be trained to take sketches as inputs and generate photographs of them.
-
-(This one is still a work in progress)
-
-<details><summary>Results: (click here to open)</summary>
-<p>
-
-<img src="https://github.com/EgeEken/EgeEken/assets/96302110/65a55f87-d367-4816-ab11-e24160e0c0ea" alt="Demonstration" width="40%" />
 
 </p>
 </details>
