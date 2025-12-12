@@ -76,14 +76,21 @@ A locally trained GAN based on UNet architecture that takes sketches of birds as
 
 ### [PBC Image Compression](https://github.com/EgeEken/PBC)
 Probabilistic Brush Compression. An unconventional lossy image compression algorithm I designed that relies on a probabilistic algorithm. 
-WORK IN PROGRESS. Latest version (V2.1) publicly available on [Hugging Face Spaces/PBC_V2.1](https://huggingface.co/spaces/EgeEken/PBC_V2.1)
+WORK IN PROGRESS. Current version (V2.3 pre-release) consistently beats JPEG in ultra-high compression rates (below the 10% quality setting of jpeg) for images over 4MP resolution.
 
 <details><summary>Results: (click here to open)</summary>
 <p>
 
-<img src="https://github.com/EgeEken/PBC/assets/96302110/a230e39b-63d4-49c1-bf73-890c81a15fa4" alt="Demonstration" width="40%" />
-<img src="https://github.com/EgeEken/PBC/assets/96302110/0ce1bb10-62c7-4f18-a00f-4c69216587ab" alt="Demonstration" width="40%" />
-<p></p>
+### V2.3 Pre-release
+<img width="5370" height="1595" alt="image" src="https://github.com/user-attachments/assets/013e58c1-3eb8-4c81-9f1d-6761eeda9e43" />
+<img width="4634" height="1779" alt="image" src="https://github.com/user-attachments/assets/c317cf78-41c4-438f-a1ac-dbf7112ff490" />
+
+### V2.2 (Latest release)
+<img width="950" height="522" alt="image" src="https://github.com/user-attachments/assets/616e2a7f-f0a2-4f04-bc5e-1cd98e227032" />
+<video src="https://github.com/user-attachments/assets/40c0c0c4-f0e6-4997-b656-1705e6e89f60" alt="Demonstration" width="30%" />
+
+### V2.1 (Hosted on [Hugging Face Spaces](https://huggingface.co/spaces/EgeEken/PBC_V2.1)
+<img src="https://github.com/EgeEken/PBC/assets/96302110/a230e39b-63d4-49c1-bf73-890c81a15fa4" alt="Demonstration" width="50%" />
 <img src="https://github.com/EgeEken/EgeEken/assets/96302110/da61d3e8-434b-4679-925d-987f19d41771" alt="Demonstration" width="80%" />
 
 </p>
