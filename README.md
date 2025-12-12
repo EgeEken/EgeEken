@@ -54,7 +54,7 @@ A local LLM Chatbot based on GPT2 architecture, optimized with modern discoverie
 <details><summary>Results: (click here to open)</summary>
 <p>
 
-<video src="https://github.com/user-attachments/assets/12ab0360-4303-4ca5-9d22-0438fb3f6298" alt="Demonstration" width="40%" />
+<video src="https://github.com/user-attachments/assets/12ab0360-4303-4ca5-9d22-0438fb3f6298" alt="Demonstration" width="40%" > </video>
 <p></p>
 <img src="https://github.com/EgeEken/AI-Chatbot/assets/96302110/4f6a94ba-661b-4fba-9594-0d0947127fce" alt="Demonstration" width="60%" />
 <img src="https://github.com/EgeEken/EgeEken/assets/96302110/51d382e2-4f24-4c51-8d94-508cf3f81aee" alt="Demonstration" width="60%" />
@@ -69,7 +69,7 @@ A locally trained GAN based on UNet architecture that takes sketches of birds as
 <details><summary>Results: (click here to open)</summary>
 <p>
 
-<video loop autoplay muted playsinline src="https://github.com/user-attachments/assets/44773dd6-58b5-42d1-b725-3ad87ec9dea5"> 
+<video loop autoplay muted playsinline src="https://github.com/user-attachments/assets/44773dd6-58b5-42d1-b725-3ad87ec9dea5"> </video>
 
 </p>
 </details>
@@ -87,9 +87,9 @@ WORK IN PROGRESS. Current version (V2.3 pre-release) consistently beats JPEG in 
 
 ### V2.2 (Latest release)
 <img width="950" height="522" alt="image" src="https://github.com/user-attachments/assets/616e2a7f-f0a2-4f04-bc5e-1cd98e227032" />
-<video src="https://github.com/user-attachments/assets/40c0c0c4-f0e6-4997-b656-1705e6e89f60" alt="Demonstration" width="30%" />
+<video loop autoplay muted playsinline src="https://github.com/user-attachments/assets/40c0c0c4-f0e6-4997-b656-1705e6e89f60" alt="Demonstration" width="30%"> </video>
 
-### V2.1 (Hosted on [Hugging Face Spaces](https://huggingface.co/spaces/EgeEken/PBC_V2.1)
+### V2.1 (Hosted on [Hugging Face Spaces](https://huggingface.co/spaces/EgeEken/PBC_V2.1))
 <img src="https://github.com/EgeEken/PBC/assets/96302110/a230e39b-63d4-49c1-bf73-890c81a15fa4" alt="Demonstration" width="50%" />
 <img src="https://github.com/EgeEken/EgeEken/assets/96302110/da61d3e8-434b-4679-925d-987f19d41771" alt="Demonstration" width="80%" />
 
