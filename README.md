@@ -75,22 +75,18 @@ A locally trained GAN based on UNet architecture that takes sketches of birds as
 </details>
 
 ### [PBC Image Compression](https://github.com/EgeEken/PBC)
-Probabilistic Brush Compression. An unconventional lossy image compression algorithm I designed that relies on a probabilistic algorithm. 
-WORK IN PROGRESS. Current version (V2.3 pre-release) consistently beats JPEG in ultra-high compression rates (below the 10% quality setting of jpeg) for images over 4MP resolution.
+Probabilistic Brush Compression. A lossy image compression algorithm I designed that has an unconventional approach relying on probabilistic mechanics. (ONGOING PROJECT) 
+
+Current version (V2.3) consistently beats JPEG in ultra-high compression rates (below the 10% quality setting of jpeg) for images over 4MP resolution.
 
 <details><summary>Results: (click here to open)</summary>
 <p>
 
-### V2.3 Pre-release
+### V2.3
 <img width="5370" height="1595" alt="image" src="https://github.com/user-attachments/assets/013e58c1-3eb8-4c81-9f1d-6761eeda9e43" />
 <img width="4634" height="1779" alt="image" src="https://github.com/user-attachments/assets/c317cf78-41c4-438f-a1ac-dbf7112ff490" />
 
-### V2.2 (Latest release)
-<img width="950" height="522" alt="image" src="https://github.com/user-attachments/assets/616e2a7f-f0a2-4f04-bc5e-1cd98e227032" />
-<video loop autoplay muted playsinline src="https://github.com/user-attachments/assets/40c0c0c4-f0e6-4997-b656-1705e6e89f60" alt="Demonstration" width="30%"> </video>
-
 ### V2.1 (Hosted on [Hugging Face Spaces](https://huggingface.co/spaces/EgeEken/PBC_V2.1))
-<img src="https://github.com/EgeEken/PBC/assets/96302110/a230e39b-63d4-49c1-bf73-890c81a15fa4" alt="Demonstration" width="50%" />
 <img src="https://github.com/EgeEken/EgeEken/assets/96302110/da61d3e8-434b-4679-925d-987f19d41771" alt="Demonstration" width="80%" />
 
 </p>
@@ -98,7 +94,7 @@ WORK IN PROGRESS. Current version (V2.3 pre-release) consistently beats JPEG in 
 
 ### [Multimodal Chatbot Voice Interface](https://github.com/EgeEken/Multimodal-Chatbot-Voice-Interface)
 
-A Gradio interface for local vision language models like LLAMA3-VISION that allows you to talk to the models using your voice.
+A Gradio interface for local vision language models like Llama 3.2-Vision that allows you to talk to the models using your voice and ask them to take pictures from your webcam and react to them.
 
 <details><summary>Results: (click here to open)</summary>
 <p>
@@ -173,9 +169,9 @@ An AI based solution for a simulated robotics project in my "AI and Games" class
 </details>
 
 
-### [QuadTree Image Compression](https://github.com/EgeEken/QuadTree)
+### [QuadTree Image Quantization](https://github.com/EgeEken/QuadTree)
 
-A web interface built with Flask, HTML, JavaScript and CSS that uses the QuadTree algorithm to compress the given images.
+A web interface built with Flask, HTML, JavaScript and CSS that uses the QuadTree algorithm to quantize and compress the given images.
 
 <details><summary>Results: (click here to open)</summary>
 <p>
