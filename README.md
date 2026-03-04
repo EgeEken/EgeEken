@@ -48,6 +48,28 @@ Welcome to my GitHub page, this is where I upload most of the personal projects 
 
 ## Notable Projects
 
+### [PBC Image Compression](https://github.com/EgeEken/PBC)
+Probabilistic Brush Compression. A lossy image compression algorithm I designed that has an unconventional approach relying on probabilistic mechanics. (ONGOING PROJECT) 
+
+Current version (V2.3) consistently beats JPEG in ultra-high compression rates (below the 10% quality setting of jpeg) for images over 4MP resolution.
+
+<details><summary>Results: (click here to open)</summary>
+<p>
+
+### V2.3
+332x Compression
+<img width="950" height="452" alt="image" src="https://github.com/user-attachments/assets/23248e91-72b7-47de-b9e8-840b1cb72af9" />
+
+### Comparison to JPEG at equivalent rates of compression
+<img width="5370" height="1595" alt="image" src="https://github.com/user-attachments/assets/013e58c1-3eb8-4c81-9f1d-6761eeda9e43" />
+<img width="4634" height="1779" alt="image" src="https://github.com/user-attachments/assets/c317cf78-41c4-438f-a1ac-dbf7112ff490" />
+
+### Interface Hosted on [Hugging Face Spaces](https://huggingface.co/spaces/EgeEken/PBC_V2.3)
+<img src="https://github.com/user-attachments/assets/88b696d5-45e9-4cf4-bea3-1e41ba4dbee0" alt="Demonstration" width="80%" />
+
+</p>
+</details>
+
 ### [AI Chatbot](https://github.com/EgeEken/AI-Chatbot)
 A local LLM Chatbot based on GPT2 architecture, optimized with modern discoveries like weight decay, mixed precision, better hyperparameter tuning etc. Built using PyTorch from scratch, everything was done locally on my laptop. 
 
@@ -62,7 +84,6 @@ A local LLM Chatbot based on GPT2 architecture, optimized with modern discoverie
 </p>
 </details>
 
-
 ### [AI Image Generator](https://github.com/EgeEken/Image-Generator)
 A locally trained GAN based on UNet architecture that takes sketches of birds as inputs and generates photographs of them. Built using PyTorch from scratch, everything was done locally on my laptop. Used a full MLOps stack here: Kaggle, Pytorch, Docker, MLFlow, Gradio, HF Spaces 
 
@@ -70,24 +91,6 @@ A locally trained GAN based on UNet architecture that takes sketches of birds as
 <p>
 
 <video loop autoplay muted playsinline src="https://github.com/user-attachments/assets/44773dd6-58b5-42d1-b725-3ad87ec9dea5"> </video>
-
-</p>
-</details>
-
-### [PBC Image Compression](https://github.com/EgeEken/PBC)
-Probabilistic Brush Compression. A lossy image compression algorithm I designed that has an unconventional approach relying on probabilistic mechanics. (ONGOING PROJECT) 
-
-Current version (V2.3) consistently beats JPEG in ultra-high compression rates (below the 10% quality setting of jpeg) for images over 4MP resolution.
-
-<details><summary>Results: (click here to open)</summary>
-<p>
-
-### V2.3
-<img width="5370" height="1595" alt="image" src="https://github.com/user-attachments/assets/013e58c1-3eb8-4c81-9f1d-6761eeda9e43" />
-<img width="4634" height="1779" alt="image" src="https://github.com/user-attachments/assets/c317cf78-41c4-438f-a1ac-dbf7112ff490" />
-
-### V2.1 (Hosted on [Hugging Face Spaces](https://huggingface.co/spaces/EgeEken/PBC_V2.1))
-<img src="https://github.com/EgeEken/EgeEken/assets/96302110/da61d3e8-434b-4679-925d-987f19d41771" alt="Demonstration" width="80%" />
 
 </p>
 </details>
