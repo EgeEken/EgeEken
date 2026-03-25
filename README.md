@@ -1,5 +1,5 @@
 # Tarık Ege Eken
-## Portfolio: <a href="https://egeeken.github.io"> egeeken.github.io </a>
+## Website / Portfolio: <a href="https://egeeken.github.io"> egeeken.github.io </a>
 
 
 Welcome to my GitHub page, this is where I upload most of the personal projects I've been working on, as well as some links for social media and my CV.
@@ -10,7 +10,7 @@ Welcome to my GitHub page, this is where I upload most of the personal projects 
 </a>
 
 
-<a target="_blank" href="https://egeeken.github.io">
+<a target="_blank" href="https://egeeken.github.io/cv-button.html">
     <img src="https://i.imgur.com/qeVQXug.png" alt="CV" width="60px"/>
 </a>
 
@@ -105,6 +105,19 @@ A Gradio interface for local vision language models like Llama 3.2-Vision that a
 
 </p>
 </details>
+
+### [Snakedle](https://egeeken.github.io/snakedle.html)
+
+Wordle-style daily puzzle game, hosted on my website. You get a different map every day and you have to find the optimal path for the snake to collect all fruits in the least amount of moves possible.
+
+<details><summary>Results: (click here to open)</summary>
+<p>
+
+
+
+</p>
+</details>
+
 
 ### [Lunar Lander AI](https://github.com/EgeEken/Lunar-Lander-AI)
 
