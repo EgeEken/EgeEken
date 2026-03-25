@@ -113,7 +113,7 @@ Wordle-style daily puzzle game, hosted on my website. You get a different map ev
 <details><summary>Results: (click here to open)</summary>
 <p>
 
-
+<img width="1265" height="601" alt="image" src="https://github.com/user-attachments/assets/246010f9-c246-44ff-b23a-da3103e700cd" />
 
 </p>
 </details>
