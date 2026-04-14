@@ -2,7 +2,7 @@
 ## Website / Portfolio: <a href="https://egeeken.github.io"> egeeken.github.io </a>
 
 
-Welcome to my GitHub page, this is where I upload most of the personal projects I've been working on, as well as some links for social media and my CV.
+Welcome to my GitHub page, this is where I upload most of the personal projects I've been working on, also some links to my social media, CV and portfolio website.
 
 ## Links
 <a target="_blank" href="https://www.linkedin.com/in/tarikegeeken/">
@@ -49,7 +49,7 @@ Welcome to my GitHub page, this is where I upload most of the personal projects 
 ## Notable Projects
 
 ### [PBC Image Compression](https://github.com/EgeEken/PBC)
-Probabilistic Brush Compression. A lossy image compression algorithm I designed that has an unconventional approach relying on probabilistic mechanics. (ONGOING PROJECT) 
+Probabilistic Brush Compression. A lossy image compression algorithm I designed.
 
 Current version (V2.3) consistently beats JPEG in ultra-high compression rates (below the 10% quality setting of jpeg) for images over 4MP resolution.
 
@@ -113,7 +113,7 @@ Wordle-style daily puzzle game, hosted on my website. You get a different map ev
 <details><summary>Results: (click here to open)</summary>
 <p>
 
-<img width="1265" height="601" alt="image" src="https://github.com/user-attachments/assets/246010f9-c246-44ff-b23a-da3103e700cd" />
+<img width="1300" height="868" alt="image" src="https://github.com/user-attachments/assets/22792a99-1cbe-4fa4-ab74-2c082b7c5842" />
 
 </p>
 </details>
