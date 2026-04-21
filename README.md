@@ -16,7 +16,7 @@ Welcome to my GitHub page, this is where I upload most of the personal projects 
 
 
 <a target="_blank" href="https://www.instagram.com/egeinparis">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="Instagram" width="60px"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="60px"/>
 </a>
 
 ## Human Languages
