@@ -51,7 +51,7 @@ Welcome to my GitHub page, this is where I upload most of the personal projects 
 ### [PBC Image Compression](https://github.com/EgeEken/PBC)
 Probabilistic Brush Compression. A lossy image compression algorithm I designed.
 
-Current version (V3.0) consistently beats JPEG in extreme compression rates, especially with high res images.
+Current version (V3.1) consistently beats JPEG in low bitrates, especially with high res images, encodes faster than AVIF, decodes faster than JpegXL.
 
 <details><summary>Results: (click here to open)</summary>
 <p>
@@ -67,6 +67,28 @@ Zoomed in
 
 ### Demo deployed on [Hugging Face Spaces](https://egeeken-pbc.hf.space/)
 <img width="1515" height="863" alt="image" src="https://github.com/user-attachments/assets/e607263a-f323-4696-925f-838a3589ed21" />
+
+</p>
+</details>
+
+### [PersonaSFT](https://github.com/EgeEken/PersonaSFT) (WIP, Private for now)
+An automated data preparation, augmentation and training pipeline that takes in various data exports from you (discord, whatsapp, etc), and trains an AI model to talk like you. Also includes a deployable discord bot with a built in feedback collection mechanism for model evaluation and future RL training use cases.
+
+<details><summary>Results: (click here to open)</summary>
+<p>
+
+<img width="475" height="431" alt="image" src="https://github.com/user-attachments/assets/c66c184c-8571-437b-a882-748a774fd428" />
+
+</p>
+</details>
+
+### [Ege's Archive Indexation App](https://github.com/EgeEken/archind) (WIP, Beta testing available)
+A personal media archive indexation app for photographers, with many features for convenient archive browsing, selection and file system management.
+
+<details><summary>Results: (click here to open)</summary>
+<p>
+    
+<img height="683" alt="image" src="https://github.com/user-attachments/assets/72ad2765-351e-4873-ac51-0f1a9e076b82" />
 
 </p>
 </details>
@@ -107,6 +129,18 @@ A Gradio interface for local vision language models like Llama 3.2-Vision that a
 </p>
 </details>
 
+### [SifuTAS](https://github.com/EgeEken/SifuTAS)
+
+A TAS tool mod for Sifu.
+
+<details><summary>Results: (click here to open)</summary>
+<p>
+
+<img height="600" alt="image" src="https://github.com/user-attachments/assets/a1a6044a-27ef-4f32-8fc8-2ed4dc0a6ee7" />
+
+</p>
+</details>
+
 ### [Snakedle](https://egeeken.github.io/snakedle.html)
 
 Wordle-style daily puzzle game, hosted on my website. You get a different map every day and you have to find the optimal path for the snake to collect all fruits in the least amount of moves possible.
@@ -114,7 +148,7 @@ Wordle-style daily puzzle game, hosted on my website. You get a different map ev
 <details><summary>Results: (click here to open)</summary>
 <p>
 
-<img width="1300" height="868" alt="image" src="https://github.com/user-attachments/assets/22792a99-1cbe-4fa4-ab74-2c082b7c5842" />
+<img height="600" alt="image" src="https://github.com/user-attachments/assets/22792a99-1cbe-4fa4-ab74-2c082b7c5842" />
 
 </p>
 </details>
