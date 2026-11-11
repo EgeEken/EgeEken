@@ -99,7 +99,7 @@ A research project using multi-stage decoding to isolate and measure the accurac
 <details><summary>Results: (click here to open)</summary>
 <p>
 
-
+<img height="400" alt="TaMtD" src="https://github.com/user-attachments/assets/fc676628-923f-4e71-93d1-17e35a98a319" />
 
 </p>
 </details>
