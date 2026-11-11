@@ -71,6 +71,17 @@ Zoomed in
 </p>
 </details>
 
+### [Ege's Archive Indexation App](https://github.com/EgeEken/archind) (WIP, Beta testing available)
+A media archive indexation app for photographers, with many features for convenient archive browsing, selection and file system management.
+
+<details><summary>Results: (click here to open)</summary>
+<p>
+    
+<img height="683" alt="image" src="https://github.com/user-attachments/assets/72ad2765-351e-4873-ac51-0f1a9e076b82" />
+
+</p>
+</details>
+
 ### [PersonaSFT](https://github.com/EgeEken/PersonaSFT) (WIP, Private for now)
 An automated data preparation, augmentation and training pipeline that takes in various data exports from you (discord, whatsapp, etc), and trains an AI model to talk like you. Also includes a deployable discord bot with a built in feedback collection mechanism for model evaluation and future RL training use cases.
 
@@ -82,13 +93,13 @@ An automated data preparation, augmentation and training pipeline that takes in 
 </p>
 </details>
 
-### [Ege's Archive Indexation App](https://github.com/EgeEken/archind) (WIP, Beta testing available)
-A personal media archive indexation app for photographers, with many features for convenient archive browsing, selection and file system management.
+### [TaMtD: Compressed-Domain Visual Understanding Across Codecs](https://github.com/EgeEken/TaMtD)
+A research project using multi-stage decoding to isolate and measure the accuracy-preprocessing trade-off between intermediate and terminal codec representations.
 
 <details><summary>Results: (click here to open)</summary>
 <p>
-    
-<img height="683" alt="image" src="https://github.com/user-attachments/assets/72ad2765-351e-4873-ac51-0f1a9e076b82" />
+
+
 
 </p>
 </details>
